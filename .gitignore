@@ -1,6 +1,6 @@
 __pycache__
 .pyc
-
+pet_data.csv
 
 *.log
 local_settings.py
