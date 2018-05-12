@@ -1,6 +1,8 @@
 __pycache__
 .pyc
 pet_data.csv
+starter_template.html
+wisdompets/settings.py
 
 *.log
 local_settings.py
